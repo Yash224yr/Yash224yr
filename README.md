@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Yash Rathore
 - 👀 I’m interested in .Web Development..
 - 🌱 I’m currently learning .HTML, CSS , JavaScript ..
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Yash224.yr@gmail.com.
 
 <!---
